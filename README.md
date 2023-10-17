@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Michela! 
+
+I'm a data analyst and I am currently learning from Coursera and Codecademy platforms how to become a Python developer. I do a bunch of open source stuff. 
+
+I'm looking to collaborate on Python projects. 
+
+You can also find me on Linkedin. 
+
+
 <!--
 **16032022/16032022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
