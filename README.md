@@ -2,7 +2,7 @@
 
 I'm Michela! 
 
-I'm a data analyst and I am currently learning from Coursera and Codecademy platforms how to become a Python developer. I do a bunch of open source stuff. 
+I'm a data analyst and I am currently learning from Coursera and Codecademy digital platforms how to become a Python developer. I do a bunch of open source stuff. 
 
 I'm looking to collaborate on Python projects. 
 
