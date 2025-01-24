@@ -2,9 +2,9 @@
 
 I'm Michela! 
 
-I'm a data analyst and I'm currently learning from DeepLearningAI and Codecademy digital platforms how to become a Python developer. Here I give you an overview of my open source stuff. 
+I'm a Data Analyst and I'm currently learning from DeepLearningAI and Codecademy digital platforms how to build up Artificial Intelligence (AI) applications using Python. Here I give you an overview of my open source porjects. 
 
-I'm looking to collaborate on Python projects. 
+Looking forward to collaborating on real-world projects, using Python and AI. 
 
 You can also find me on Linkedin. 
 
