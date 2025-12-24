@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-I'm Michela! 
+I am Michela! 
 
-I'm a Data Analyst and I'm currently learning from DeepLearningAI and Codecademy digital platforms how to build up Artificial Intelligence (AI) applications using Python. Here I give you an overview of my open source porjects. 
+Here, you can find an overview of the open-source projects I have developed so far in collaboration with AI professionals across the 
+[DeepLearning.AI](https://www.deeplearning.ai/courses/) and [Codecademy](https://www.codecademy.com/) 
+digital platforms, focused on building up AI applications using Python.
 
-Looking forward to collaborating on real-world projects, using Python and AI. 
+I look forward to collaborating with AI professionals on real-world projects that leverage Python and AI technologies.
 
-You can also find me on Linkedin. 
+You can also contact me on [Linkedin](https://www.linkedin.com/in/michela-agostini-627546a7/). 
 
 
 <!--
