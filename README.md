@@ -2,9 +2,9 @@
 
 I am Michela! 
 
-Here, you can find an overview of the open-source projects I have developed so far in collaboration with AI professionals across the 
+Here, you can find an overview of my past open-source projects I have developed in collaboration with AI professionals across the 
 [DeepLearning.AI](https://www.deeplearning.ai/courses/) and [Codecademy](https://www.codecademy.com/) 
-digital platforms, focused on building up AI applications using Python.
+digital platforms, focused on building up AI applications using Python. Ongoing and current work can be found at: [Github](https://github.com/micag2025).
 
 I look forward to collaborating with AI professionals on real-world projects that leverage Python and AI technologies.
 
